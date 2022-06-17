@@ -1,13 +1,14 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo.png" />
+    <h1>Welcome!</h1>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
+  // @ is an alias to /src
 
-export default {
-  name: 'Home',
-}
+  export default {
+    name: 'Home',
+  }
 </script>
